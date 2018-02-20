@@ -1,0 +1,5 @@
+﻿on LaunchandType
+	run Actions.DoubleClickImage "Chrome"
+	run Actions.TakeScreenshot "step number"
+	run Actions.TypeinTextBox "Chrome Loaded" , "www.google.com" , returnKey
+end LaunchandType

@@ -1,0 +1,7 @@
+﻿2018-02-11 17:00:27.604 +0530	START		Running Functions.script
+2018-02-11 17:00:28.041 +0530	imagefound	Chrome	found at (437, 747)	2	on_doubleclickimage	Actions.script
+2018-02-11 17:00:28.041 +0530	LogSuccess		Assertion Succeeded: (true: ImageFound(180, imagename))	2	on_doubleclickimage	Actions.script
+2018-02-11 17:00:28.684 +0530	doubleclick	Chrome	at (437, 747)	6	on_doubleclickimage	Actions.script
+2018-02-11 17:00:28.917 +0530	capturescreen	step 9Chrome.png		8	on_doubleclickimage	Actions.script
+2018-02-11 17:00:29.081 +0530	EndTestCase		(Duration:"1.474894", Errors:"0", Exceptions:"0", StartTime:"2018-02-11 17:00:27 +0530", Successes:"1", TestCase:"Functions.script", Warnings:"0")
+2018-02-11 17:00:29.117 +0530	SUCCESS		Execution Time 0:00:01 Functions.script

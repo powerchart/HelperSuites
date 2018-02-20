@@ -1,0 +1,6 @@
+﻿put the long name of me into var
+log var
+replace "Scripts" with "Results" in var
+log var
+
+

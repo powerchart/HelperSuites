@@ -1,0 +1,7 @@
+﻿// Action - Step 1 - Launch the Browser
+Log ("Action - Step 1- Launch the Browser")
+Run Functions.LaunchandType
+//Expected result Step 1 - Check if the browser is launched
+Log("Expected result Step 1 - Check if the browser is launched")
+
+

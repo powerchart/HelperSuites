@@ -1,0 +1,4 @@
+﻿2018-02-14 16:48:39.298 +0530	START		Running Untitled.script
+2018-02-14 16:48:39.441 +0530	Log			2	on_untitled	Untitled.script
+2018-02-14 16:48:39.585 +0530	EndTestCase		(Duration:"0.285767", Errors:"0", Exceptions:"0", StartTime:"2018-02-14 16:48:39 +0530", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2018-02-14 16:48:39.621 +0530	SUCCESS		Execution Time 0:00:00 Untitled.script

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Functions Browser">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>43</NumberOfRuns>
+  <NumberOfFails>23</NumberOfFails>
+  <FirstRun>2018-02-11 15:19:56 +0530</FirstRun>
+  <LastRun>2018-02-11 17:14:51 +0530</LastRun>
+  <TotalTimeOnSuccess>23.365081</TotalTimeOnSuccess>
+ </script>
+ <script name="Actions">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-02-11 15:12:49 +0530</FirstRun>
+  <LastRun>2018-02-11 17:00:50 +0530</LastRun>
+  <TotalTimeOnSuccess>0.015674</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-02-14 16:31:52 +0530</FirstRun>
+  <LastRun>2018-02-14 17:03:17 +0530</LastRun>
+  <TotalTimeOnSuccess>3.459498</TotalTimeOnSuccess>
+ </script>
+ <script name="VR script Browser">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-02-11 17:28:33 +0530</FirstRun>
+  <LastRun>2018-02-11 17:39:58 +0530</LastRun>
+  <TotalTimeOnSuccess>87.465908</TotalTimeOnSuccess>
+ </script>
+</statistics>

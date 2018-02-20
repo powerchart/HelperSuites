@@ -1,0 +1,33 @@
+﻿On DoubleClickImage imagename,savescreenshot
+	assert that ImageFound(10, imagename)
+	DoubleClick(imagename)
+	LogSuccess (imagename)& "is clicked"
+	--	CaptureScreen (Name: savescreenshot&"  " &imagename)
+end DoubleClickImage
+
+on TypeinTextBox LabelFocus , text , KeyAction
+	assert that ImageFound(10, LabelFocus)
+	Click LabelFocus
+	TypeText text & KeyAction
+	
+end TypeinTextBox
+
+// Captures screenshot 
+on TakeScreenshot SaveSnapshot
+	RefreshScreen
+	CaptureScreen (Name: SaveSnapshot)
+	logsuccess ""&SaveSnapshot& "captured"
+end TakeScreenshot
+
+
+//Finds text on the screen
+
+on FindTextOnScreen TextToFind
+
+	if imageFound(text:TextToFind)
+		logSuccess " " &TexttoFind &"Found text on screen"
+	else
+		logError " " &TexttoFind &"Not Found text on screen"
+	end if
+	
+end FindTextOnScreen

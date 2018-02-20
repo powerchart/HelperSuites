@@ -1,0 +1,4 @@
+﻿2018-02-11 15:31:28.019 +0530	START		Running Functions.script
+2018-02-11 15:31:28.215 +0530	imagefound	Chrome	found at (437, 747)	2	on_doubleclickimage	Actions.script
+2018-02-11 15:31:28.365 +0530	EndTestCase		(Duration:"0.345476", Errors:"1", Exceptions:"0", StartTime:"2018-02-11 15:31:28 +0530", Successes:"0", TestCase:"Functions.script", Warnings:"0")
+2018-02-11 15:31:28.752 +0530	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'logfailure' -- Execution Time 0:00:00 Functions.script

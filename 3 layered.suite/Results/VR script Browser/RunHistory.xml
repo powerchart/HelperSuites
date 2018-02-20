@@ -1,0 +1,99 @@
+﻿<?xml version="1.0"?>
+<runHistory script="VR script">
+ <run>
+  <RunDate>2018-02-11 17:28:33.938 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.297763</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180211_172833.938/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:30:43.859 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>5.247439</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20180211_173043.859/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:32:20.439 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>5.134562</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20180211_173220.439/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:33:16.648 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>4.786348</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20180211_173316.648/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:33:47.069 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>5.125326</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20180211_173347.069/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:36:20.423 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>54.440871</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20180211_173620.423/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:37:39.856 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>6.848910</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20180211_173739.856/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:39:58.050 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>4.584689</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20180211_173958.050/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

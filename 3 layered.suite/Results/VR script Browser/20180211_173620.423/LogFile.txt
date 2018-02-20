@@ -1,0 +1,13 @@
+﻿2018-02-11 17:36:20.426 +0530	START		Running VR script.script
+2018-02-11 17:36:30.745 +0530	imagefound	Chrome	found at (273, 138)	2	on_doubleclickimage	Actions.script
+2018-02-11 17:36:30.746 +0530	LogSuccess		Assertion Succeeded: (true: ImageFound(10, imagename))	2	on_doubleclickimage	Actions.script
+2018-02-11 17:36:32.882 +0530	doubleclick	Chrome	at (273, 138)	3	on_doubleclickimage	Actions.script
+2018-02-11 17:36:36.206 +0530	LogSuccess		Chromeis clicked	4	on_doubleclickimage	Actions.script
+2018-02-11 17:36:46.373 +0530	capturescreen	step number.png		3	on_takescreenshot	Actions.script
+2018-02-11 17:36:47.891 +0530	LogSuccess		step numbercaptured	4	on_takescreenshot	Actions.script
+2018-02-11 17:36:55.857 +0530	imagefound	Chrome Loaded	found at (151, 61)	2	on_typeintextbox	Actions.script
+2018-02-11 17:36:55.858 +0530	LogSuccess		Assertion Succeeded: (true: ImageFound(10, LabelFocus))	2	on_typeintextbox	Actions.script
+2018-02-11 17:37:02.773 +0530	click	Chrome Loaded	at (151, 61)	3	on_typeintextbox	Actions.script
+2018-02-11 17:37:05.896 +0530	typetext		www.google.comKey	4	on_typeintextbox	Actions.script
+2018-02-11 17:37:14.865 +0530	EndTestCase		(Duration:"54.437494", Errors:"0", Exceptions:"0", StartTime:"2018-02-11 17:36:20 +0530", Successes:"4", TestCase:"VR script.script", Warnings:"0")
+2018-02-11 17:37:14.897 +0530	SUCCESS		Execution Time 0:00:54 VR script.script

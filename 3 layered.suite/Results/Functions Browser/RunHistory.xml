@@ -1,0 +1,537 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled">
+ <run>
+  <RunDate>2018-02-11 15:19:56.817 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.306634</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_151956.817/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: &#x27;click&#x27; was called as a Function, but is only available as a Command</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:20:04.773 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.335046</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_152004.773/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: &#x27;click&#x27; was called as a Function, but is only available as a Command</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:21:45.192 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.464615</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180211_152145.192/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- capturescreen Error - Error Computing Rectangle: step 9</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:22:14.796 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.855287</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180211_152214.796/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:28:22.794 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.003032</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_152822.794/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:28:30.894 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.003260</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_152830.894/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:28:39.980 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.003061</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_152839.980/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:28:51.193 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.276254</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_152851.193/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;clickimage&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:29:03.650 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.273882</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_152903.650/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in doubleclickimage:
+Syntax Error at line 2: Syntax Error - can&#x27;t understand &quot;ImageFound&quot; at or near character 60</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:29:31.333 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.282124</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_152931.333/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in doubleclickimage:
+Warning at line 8: Warning - Non-matching handler name: ClickImage</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:29:41.617 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.277009</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_152941.617/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in doubleclickimage:
+Warning at line 8: Warning - Non-matching handler name: ClickImage</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:30:39.113 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.256875</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_153039.113/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in doubleclickimage:
+Warning at line 8: Warning - Non-matching handler name: ClickImage</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:30:54.177 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.259691</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_153054.177/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in doubleclickimage:
+Warning at line 8: Warning - Non-matching handler name: ClickImage</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:31:28.016 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.348378</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_153128.016/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;logfailure&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:31:41.552 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.356839</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_153141.552/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:31:53.754 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.958293</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_153153.754/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:33:28.430 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.127873</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_153328.430/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:33:55.721 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.090259</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_153355.721/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:34:31.040 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.224430</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_153431.040/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:34:36.710 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.304174</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_153436.710/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:34:55.044 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.358427</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_153455.044/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:49:35.090 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.360457</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_154935.090/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:51:31.706 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.277683</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_155131.706/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in doubleclickimage:
+Syntax Error at line 5: Syntax Error - can&#x27;t understand &quot;if&quot; at or near character 132</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:51:41.325 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.369025</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180211_155141.325/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:51:57.825 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.323587</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180211_155157.825/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:52:05.214 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.334470</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180211_155205.214/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:53:33.938 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.493576</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180211_155333.938/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 15:53:45.359 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.445558</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180211_155345.359/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 16:55:53.396 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.321882</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180211_165553.396/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 16:56:23.354 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.739379</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180211_165623.354/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 16:57:05.324 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.447646</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_165705.324/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:00:27.602 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.478372</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_170027.602/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:01:02.811 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.324363</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_170102.811/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:09:02.231 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.249844</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180211_170902.231/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:09:35.668 +0530</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20180211_170935.668/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:09:52.270 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.209350</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_170952.270/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed -- (false: ImageFound(10, imagename))</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:10:27.198 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.594844</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_171027.198/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed -- (false: ImageFound(10, imagename))</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:10:51.234 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.343018</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_171051.234/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed -- (false: ImageFound(10, imagename))</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:12:40.696 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.504073</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_171240.696/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:12:56.082 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.726185</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_171256.082/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:13:52.523 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.188835</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_171352.523/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:14:02.511 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.114551</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180211_171402.511/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:14:43.548 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>2.439095</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180211_171443.548/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-11 17:14:51.036 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.425516</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180211_171451.036/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed -- (false: ImageFound(10, imagename))</ErrorMessage>
+ </run>
+</runHistory>

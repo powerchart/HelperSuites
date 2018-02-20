@@ -1,0 +1,18 @@
+﻿{
+    CaptureDate = "2018-02-11 11:42:25 +0000";
+    CaptureHost = "My Cloud";
+    CaptureScreenSize =     (
+        1024,
+        768
+    );
+    HasAlpha = 1;
+    HotSpotX = 10;
+    HotSpotY = 14;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 263;
+    OriginalLocationY = 124;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

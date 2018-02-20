@@ -1,0 +1,45 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-02-11 15:19:56.817 +0530,"Failure",0:00:00,1,0,0,"20180211_151956.817/LogFile.txt","","STUnknownMessage -- ERROR: 'click' was called as a Function, but is only available as a Command",0
+2018-02-11 15:20:04.773 +0530,"Failure",0:00:00,1,0,0,"20180211_152004.773/LogFile.txt","","STUnknownMessage -- ERROR: 'click' was called as a Function, but is only available as a Command",0
+2018-02-11 15:21:45.192 +0530,"Failure",0:00:01,1,0,0,"20180211_152145.192/LogFile.txt","","Error Running Script Command -- capturescreen Error - Error Computing Rectangle: step 9",2
+2018-02-11 15:22:14.796 +0530,"Success",0:00:01,0,0,0,"20180211_152214.796/LogFile.txt","","",2
+2018-02-11 15:28:22.794 +0530,"Success",0:00:00,0,0,0,"20180211_152822.794/LogFile.txt","","",1
+2018-02-11 15:28:30.894 +0530,"Success",0:00:00,0,0,0,"20180211_152830.894/LogFile.txt","","",1
+2018-02-11 15:28:39.980 +0530,"Success",0:00:00,0,0,0,"20180211_152839.980/LogFile.txt","","",1
+2018-02-11 15:28:51.193 +0530,"Failure",0:00:00,1,0,0,"20180211_152851.193/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'clickimage'",0
+2018-02-11 15:29:03.650 +0530,"Failure",0:00:00,1,0,0,"20180211_152903.650/LogFile.txt","","SenseTalk Compiler Exception -- in doubleclickimage:\nSyntax Error at line 2: Syntax Error - can't understand ""ImageFound"" at or near character 60",0
+2018-02-11 15:29:31.333 +0530,"Failure",0:00:00,1,0,0,"20180211_152931.333/LogFile.txt","","SenseTalk Compiler Exception -- in doubleclickimage:\nWarning at line 8: Warning - Non-matching handler name: ClickImage",0
+2018-02-11 15:29:41.617 +0530,"Failure",0:00:00,1,0,0,"20180211_152941.617/LogFile.txt","","SenseTalk Compiler Exception -- in doubleclickimage:\nWarning at line 8: Warning - Non-matching handler name: ClickImage",0
+2018-02-11 15:30:39.113 +0530,"Failure",0:00:00,1,0,0,"20180211_153039.113/LogFile.txt","","SenseTalk Compiler Exception -- in doubleclickimage:\nWarning at line 8: Warning - Non-matching handler name: ClickImage",0
+2018-02-11 15:30:54.177 +0530,"Failure",0:00:00,1,0,0,"20180211_153054.177/LogFile.txt","","SenseTalk Compiler Exception -- in doubleclickimage:\nWarning at line 8: Warning - Non-matching handler name: ClickImage",0
+2018-02-11 15:31:28.016 +0530,"Failure",0:00:00,1,0,0,"20180211_153128.016/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'logfailure'",0
+2018-02-11 15:31:41.552 +0530,"Failure",0:00:01,1,0,0,"20180211_153141.552/LogFile.txt","","Script Error -- Number of Errors logged: 1",1
+2018-02-11 15:31:53.754 +0530,"Failure",0:00:00,1,0,0,"20180211_153153.754/LogFile.txt","","Script Error -- Number of Errors logged: 1",1
+2018-02-11 15:33:28.430 +0530,"Failure",0:00:01,1,0,0,"20180211_153328.430/LogFile.txt","","Script Error -- Number of Errors logged: 1",1
+2018-02-11 15:33:55.721 +0530,"Failure",0:00:01,1,0,0,"20180211_153355.721/LogFile.txt","","Script Error -- Number of Errors logged: 1",1
+2018-02-11 15:34:31.040 +0530,"Failure",0:00:01,1,0,0,"20180211_153431.040/LogFile.txt","","Script Error -- Number of Errors logged: 1",1
+2018-02-11 15:34:36.710 +0530,"Failure",0:00:01,1,0,0,"20180211_153436.710/LogFile.txt","","Script Error -- Number of Errors logged: 1",1
+2018-02-11 15:34:55.044 +0530,"Failure",0:00:01,1,0,0,"20180211_153455.044/LogFile.txt","","Script Error -- Number of Errors logged: 1",1
+2018-02-11 15:49:35.090 +0530,"Failure",0:00:01,1,0,0,"20180211_154935.090/LogFile.txt","","Script Error -- Number of Errors logged: 1",1
+2018-02-11 15:51:31.706 +0530,"Failure",0:00:00,1,0,0,"20180211_155131.706/LogFile.txt","","SenseTalk Compiler Exception -- in doubleclickimage:\nSyntax Error at line 5: Syntax Error - can't understand ""if"" at or near character 132",0
+2018-02-11 15:51:41.325 +0530,"Success",0:00:01,0,0,0,"20180211_155141.325/LogFile.txt","","",2
+2018-02-11 15:51:57.825 +0530,"Success",0:00:01,0,0,0,"20180211_155157.825/LogFile.txt","","",2
+2018-02-11 15:52:05.214 +0530,"Success",0:00:01,0,0,0,"20180211_155205.214/LogFile.txt","","",2
+2018-02-11 15:53:33.938 +0530,"Success",0:00:01,0,0,0,"20180211_155333.938/LogFile.txt","","",2
+2018-02-11 15:53:45.359 +0530,"Success",0:00:01,0,0,0,"20180211_155345.359/LogFile.txt","","",2
+2018-02-11 16:55:53.396 +0530,"Success",0:00:01,0,0,0,"20180211_165553.396/LogFile.txt","","",2
+2018-02-11 16:56:23.354 +0530,"Success",0:00:01,0,0,0,"20180211_165623.354/LogFile.txt","","",2
+2018-02-11 16:57:05.324 +0530,"Success",0:00:01,0,0,0,"20180211_165705.324/LogFile.txt","","",1
+2018-02-11 17:00:27.602 +0530,"Success",0:00:01,0,0,0,"20180211_170027.602/LogFile.txt","","",1
+2018-02-11 17:01:02.811 +0530,"Success",0:00:01,0,0,0,"20180211_170102.811/LogFile.txt","","",1
+2018-02-11 17:09:02.231 +0530,"Success",0:00:01,0,0,0,"20180211_170902.231/LogFile.txt","","",2
+2018-02-11 17:09:35.668 +0530,"Running",0:00:00,0,0,0,"20180211_170935.668/LogFile.txt","","",0
+2018-02-11 17:09:52.270 +0530,"Failure",0:00:11,1,0,0,"20180211_170952.270/LogFile.txt","","AssertionFailed -- (false: ImageFound(10, imagename))",0
+2018-02-11 17:10:27.198 +0530,"Failure",0:00:10,1,0,0,"20180211_171027.198/LogFile.txt","","AssertionFailed -- (false: ImageFound(10, imagename))",0
+2018-02-11 17:10:51.234 +0530,"Failure",0:00:11,1,0,0,"20180211_171051.234/LogFile.txt","","AssertionFailed -- (false: ImageFound(10, imagename))",0
+2018-02-11 17:12:40.696 +0530,"Success",0:00:00,0,0,0,"20180211_171240.696/LogFile.txt","","",1
+2018-02-11 17:12:56.082 +0530,"Success",0:00:00,0,0,0,"20180211_171256.082/LogFile.txt","","",1
+2018-02-11 17:13:52.523 +0530,"Success",0:00:01,0,0,0,"20180211_171352.523/LogFile.txt","","",1
+2018-02-11 17:14:02.511 +0530,"Success",0:00:01,0,0,0,"20180211_171402.511/LogFile.txt","","",1
+2018-02-11 17:14:43.548 +0530,"Success",0:00:02,0,0,0,"20180211_171443.548/LogFile.txt","","",2
+2018-02-11 17:14:51.036 +0530,"Failure",0:00:10,1,0,0,"20180211_171451.036/LogFile.txt","","AssertionFailed -- (false: ImageFound(10, imagename))",0

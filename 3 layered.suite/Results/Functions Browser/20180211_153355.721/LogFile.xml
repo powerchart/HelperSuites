@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Functions.script" package="3 layered.suite" timestamp="2018-02-11 15:33:55.721 +0530"
+ tests="1" successes="1" errors="1" time="1.090259">
+  <properties>
+   <property name="RunDate" value="2018-02-11 15:33:55.721 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Functions.script" assertions="2" successes="1" errors="1" time="1.087146">
+    <failure type="LogError">Couldn't find theChrome</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

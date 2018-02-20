@@ -1,0 +1,542 @@
+(******************* MyJarvis *******************
+
+Script Name: DOC-VR-PN-F3 
+
+Test ID: 408096
+
+Author: 
+
+Date of creation: 07-Feb-2018
+*****************************
+
+DOC-VR-PN-F3
+
+  
+
+Purpose: To verify the ability to navigate between underscores within the free
+text using F3 and Shift + F3 function key.
+
+To verify the ability to find next identical letter/word within the document
+which is previewed using F3 and Shift + F3 function key.
+
+  
+
+Requirements:
+
+521812
+
+534687
+
+534698
+
+532474
+
+532479
+
+CR: 1-000000105447
+
+  
+
+Prerequisites:
+
+1\. Identify a Physician who has access to PowerChart, PN-Tired, Document
+Viewing and PN2G.
+
+2\. Identify a test patient having valid encounter.
+
+3\. Identify a Non-ED encounter pathway which has a what term and Formatted
+term.
+
+4\. In Prefmaint.exe, set the preference LAUNCHSCD to 1-ON.
+
+5\. In Preferencemanager.exe, set the preference PN2G to 0 at application,
+position and user level.
+
+6\. Create the following PowerNote’s and auto text(AT1) with text "Patient_ is
+suffering __from cold and__ fever and the patient have to undergo __many
+tests. Patient __ is admitted to the hospital." Ensure that the text is
+inserted in free text area, what term and formatted term of the note.:
+
+    a. In Progress PN1.
+
+    b. Auth(Verified) PN2.
+
+7\. Uncheck Match case checkbox in Find dialog (Preview a document and press
+Ctrl + F).
+
+Note:1.This plan should be executed in local machine since Shift + F3 will
+close the citrix box.
+
+         2\. Please take video evidence while executing this test plan.
+
+  
+
+Change Control:
+
+Date                                     Editor
+Description  
+
+12/26/2017                        RA050715             Initial creation.
+
+01/04/2018                     RA050715               Modified as per review
+comments.
+
+*************************************************)
+
+# Step 1: Launch PowerChart.exe and open the test patient chart
+
+# Expected Result: Patient chart opens without error.
+ 
+ 
+
+
+# Step 2: Navigate to Clinical Notes tab and open PN1 for modification.
+
+# Expected Result: PN1 opens in PN-Tired view.
+ 
+ 
+
+
+# Step 3: Set the cursor position at the end of the text in the free text area of the
+note and Press F3 until the cursor is moved to the last underscore.
+
+# Expected Result: Verify that the cursor moves to each underscore and each underscore is
+highlighted as it moves. Verify that the cursor is at the last underscore and
+the last underscore is highlighted.
+
+Capture Screen(Name:'Step 3')
+ 
+ 
+
+
+# Step 4: Press F3.
+
+# Expected Result: Verify that the cursor is at the first underscore and the first underscore is
+highlighted.
+
+Capture Screen(Name:'Step 4')
+ 
+ 
+
+
+# Step 5: Press Shift + F3 until the cursor is moved to the first underscore.
+
+# Expected Result: Verify that the cursor moves to each previous underscore and each underscore
+is highlighted as it moves. Verify that the cursor is at the first underscore
+and the first underscore is highlighted.
+
+Capture Screen(Name:'Step 5')
+ 
+ 
+
+
+# Step 6: Press Shift + F3.
+
+# Expected Result: Verify that the cursor is at the last underscore and the last underscore is
+highlighted.
+
+Capture Screen(Name:'Step 6')
+ 
+ 
+
+
+# Step 7: Click on the documented what term.
+
+# Expected Result: What box opens.
+ 
+ 
+
+
+# Step 8: Press F3 until the cursor is moved to the last underscore.
+
+# Expected Result: Verify that the cursor moves to each underscore and each underscore is
+highlighted as it moves. Verify that the cursor is at the last underscore and
+the last underscore is highlighted.
+
+Capture Screen(Name:'Step 8')
+ 
+ 
+
+
+# Step 9: Press Shift + F3 until the cursor is moved to the first underscore.
+
+# Expected Result: Verify that the cursor moves to each previous underscore and each underscore
+is highlighted as it moves. Verify that the cursor is at the first underscore
+and the first underscore is highlighted.
+
+Capture Screen(Name:'Step 9')
+ 
+ 
+
+
+# Step 10: Click on the documented formatted term.
+
+# Expected Result: Formatted term dialog opens.
+ 
+ 
+
+
+# Step 11: Press F3 until the cursor is moved to the last underscore.
+
+# Expected Result: Verify that the cursor moves to each underscore and each underscore is
+highlighted as it moves. Verify that the cursor is at the last underscore and
+the last underscore is highlighted.
+
+Capture Screen(Name:'Step 11')
+ 
+ 
+
+
+# Step 12: Press Shift + F3 until the cursor is moved to the first underscore.
+
+# Expected Result: Verify that the cursor moves to each previous underscore and each underscore
+is highlighted as it moves. Verify that the cursor is at the first underscore
+and the first underscore is highlighted.
+
+Capture Screen(Name:'Step 12')
+ 
+ 
+
+
+# Step 13: Close PN1 and Press Ctrl + F.
+
+# Expected Result: Find dialog opens.
+ 
+ 
+
+
+# Step 14: Enter the word "Patient" and click Find Next.
+
+# Expected Result: First occurrence of the word "Patient" is highlighted.
+ 
+ 
+
+
+# Step 15: Click Cancel and Press F3 until the cursor is moved to the last occurrence of
+the word "Patient".
+
+# Expected Result: Verify that the cursor moves to each occurrence of the word "Patient" and the
+word is highlighted as it moves. Verify that the cursor is at the last
+occurrence of the word "Patient "and the last occurrence of the word is
+highlighted.
+
+Capture Screen(Name:'Step 15')
+ 
+ 
+
+
+# Step 16: Press Shift + F3 until the cursor is moved to the first occurrence of the word
+"Patient".
+
+# Expected Result: Verify that the cursor moves to each occurrence of the word "Patient" and the
+word is highlighted as it moves. Verify that the cursor is at the first
+occurrence of the word "Patient "and the first occurrence of the word is
+highlighted.
+
+Capture Screen(Name:'Step 16')
+ 
+ 
+
+
+# Step 17: Open PN2 for modification and insert auto text AT1 in the addendum section of
+the note.
+
+# Expected Result: Auto text is inserted into the note.
+ 
+ 
+
+
+# Step 18: Press F3 until the cursor is moved to the last underscore.
+
+# Expected Result: Verify that the cursor moves to each underscore and each underscore is
+highlighted as it moves. Verify that the cursor is at the last underscore and
+the last underscore is highlighted.
+
+Capture Screen(Name:'Step 18')
+ 
+ 
+
+
+# Step 19: Press Shift + F3 until the cursor is moved to the first underscore.
+
+# Expected Result: Verify that the cursor moves to each previous underscore and each underscore
+is highlighted as it moves. Verify that the cursor is at the first underscore
+and the first underscore is highlighted.
+
+Capture Screen(Name:'Step 19')
+ 
+ 
+
+
+# Step 20: Close PN2. Navigate to Document viewing and open PN1 for modification.
+
+# Expected Result: PN1 opens for modification.
+ 
+ 
+
+
+# Step 21: Set the cursor position at the end of the text in the free text area of the
+note and Press F3 until the cursor is moved to the last underscore.
+
+# Expected Result: Verify that the cursor moves to each underscore and each underscore is
+highlighted as it moves. Verify that the cursor is at the last underscore and
+the last underscore is highlighted.
+
+Capture Screen(Name:'Step 21')
+ 
+ 
+
+
+# Step 22: Press Shift + F3 until the cursor is moved to the first underscore.
+
+# Expected Result: Verify that the cursor moves to each previous underscore and each underscore
+is highlighted as it moves. Verify that the cursor is at the first underscore
+and the first underscore is highlighted.
+
+Capture Screen(Name:'Step 22')
+ 
+ 
+
+
+# Step 23: Click on the documented what term.
+
+# Expected Result: What box opens
+ 
+ 
+
+
+# Step 24: Press F3 until the cursor is moved to the last underscore.
+
+# Expected Result: Verify that the cursor moves to each underscore and each underscore is
+highlighted as it moves. Verify that the cursor is at the last underscore and
+the last underscore is highlighted.
+
+Capture Screen(Name:'Step 24')
+ 
+ 
+
+
+# Step 25: Press Shift + F3 until the cursor is moved to the first underscore.
+
+# Expected Result: Verify that the cursor moves to each previous underscore and each underscore
+is highlighted as it moves. Verify that the cursor is at the first underscore
+and the first underscore is highlighted.
+
+Capture Screen(Name:'Step 25')
+ 
+ 
+
+
+# Step 26: Click on the documented formatted term.
+
+# Expected Result: Formatted term dialog opens.
+ 
+ 
+
+
+# Step 27: Press F3 until the cursor is moved to the last underscore.
+
+# Expected Result: Verify that the cursor moves to each underscore and each underscore is
+highlighted as it moves. Verify that the cursor is at the last underscore and
+the last underscore is highlighted.
+
+Capture Screen(Name:'Step 27')
+ 
+ 
+
+
+# Step 28: Press Shift + F3 until the cursor is moved to the first underscore.
+
+# Expected Result: Verify that the cursor moves to each previous underscore and each underscore
+is highlighted as it moves. Verify that the cursor is at the first underscore
+and the first underscore is highlighted.
+
+Capture Screen(Name:'Step 28')
+ 
+ 
+
+
+# Step 29: Close PN1 and Press Ctrl + F.
+
+# Expected Result: Find dialog opens.
+ 
+ 
+
+
+# Step 30: Enter the word "Patient" and click Find Next.
+
+# Expected Result: First occurrence of the word "Patient" is highlighted.
+ 
+ 
+
+
+# Step 31: Click Cancel and Press F3 until the cursor is moved to the last occurrence of
+the word "Patient".
+
+# Expected Result: Verify that the cursor moves to each occurrence of the word "Patient" and the
+word is highlighted as it moves. Verify that the cursor is at the last
+occurrence of the word "Patient "and the last occurrence of the word is
+highlighted.
+
+Capture Screen(Name:'Step 31')
+ 
+ 
+
+
+# Step 32: Press F3.
+
+# Expected Result: Verify that the cursor is at the first occurrence of the word "Patient "and
+the first occurrence of the word is highlighted.
+
+Capture Screen(Name:'Step 32')
+ 
+ 
+
+
+# Step 33: Press Shift + F3 until the cursor is moved to the first occurrence of the word
+"Patient".
+
+# Expected Result: Verify that the cursor moves to each occurrence of the word "Patient" and the
+word is highlighted as it moves. Verify that the cursor is at the first
+occurrence of the word "Patient "and the first occurrence of the word is
+highlighted.
+
+Capture Screen(Name:'Step 33')
+ 
+ 
+
+
+# Step 34: Press Shift + F3.
+
+# Expected Result: Verify that the cursor is at the last occurrence of the word "Patient "and the
+last occurrence of the word is selected.
+
+Capture Screen(Name:'Step 34')
+ 
+ 
+
+
+# Step 35: Open PN2 for modification and insert auto text AT1 in the addendum section of
+the note.
+
+# Expected Result: AT1 is inserted into the note.
+ 
+ 
+
+
+# Step 36: Press F3 until the cursor is moved to the last underscore.
+
+# Expected Result: Verify that the cursor moves to each underscore and each underscore is
+highlighted as it moves. Verify that the cursor is at the last underscore and
+the last underscore is highlighted.
+
+Capture Screen(Name:'Step 36')
+ 
+ 
+
+
+# Step 37: Press Shift + F3 until the cursor is moved to the first underscore.
+
+# Expected Result: Verify that the cursor moves to each previous underscore and each underscore
+is highlighted as it moves. Verify that the cursor is at the first underscore
+and the first underscore is highlighted.
+
+Capture Screen(Name:'Step 37')
+ 
+ 
+
+
+# Step 38: Navigate to Documentation tab and open PN1 from Existing tab in Open Note
+dialog.
+
+# Expected Result: PN1 opens in PN2G view.
+ 
+ 
+
+
+# Step 39: Set the cursor position at the end of the text in the free text area of the
+note and Press F3 until the cursor is moved to the last underscore.
+
+# Expected Result: Verify that the cursor moves to each underscore and each underscore is
+highlighted as it moves. Verify that the cursor is at the last underscore and
+the last underscore is highlighted.
+
+Capture Screen(Name:'Step 39')
+ 
+ 
+
+
+# Step 40: Press Shift + F3 until the cursor is moved to the first underscore.
+
+# Expected Result: Verify that the cursor moves to each previous underscore and each underscore
+is highlighted as it moves. Verify that the cursor is at the first underscore
+and the first underscore is highlighted.
+
+Capture Screen(Name:'Step 40')
+ 
+ 
+
+
+# Step 41: Click on the documented what term.
+
+# Expected Result: What box opens
+ 
+ 
+
+
+# Step 42: Press F3 until the cursor is moved to the last underscore.
+
+# Expected Result: Verify that the cursor moves to each underscore and each underscore is
+highlighted as it moves. Verify that the cursor is at the last underscore and
+the last underscore is highlighted.
+
+Capture Screen(Name:'Step 42')
+ 
+ 
+
+
+# Step 43: Press Shift + F3 until the cursor is moved to the first underscore.
+
+# Expected Result: Verify that the cursor moves to each previous underscore and each underscore
+is highlighted as it moves. Verify that the cursor is at the first underscore
+and the first underscore is highlighted.
+
+Capture Screen(Name:'Step 43')
+ 
+ 
+
+
+# Step 44: Click on the documented formatted term.
+
+# Expected Result: Formatted term dialog opens.
+ 
+ 
+
+
+# Step 45: Press F3 until the cursor is moved to the last underscore.
+
+# Expected Result: Verify that the cursor moves to each underscore and each underscore is
+highlighted as it moves. Verify that the cursor is at the last underscore and
+the last underscore is highlighted.
+
+Capture Screen(Name:'Step 45')
+ 
+ 
+
+
+# Step 46: Press Shift + F3 until the cursor is moved to the first underscore.
+
+# Expected Result: Verify that the cursor moves to each previous underscore and each underscore
+is highlighted as it moves. Verify that the cursor is at the first underscore
+and the first underscore is highlighted.
+
+Capture Screen(Name:'Step 46')
+ 
+ 
+
+
+# Step 47: Close PowerChart.
+
+# Expected Result: PowerChart closes without error.
+ 
+ 

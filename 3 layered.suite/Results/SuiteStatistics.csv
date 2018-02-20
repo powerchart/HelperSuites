@@ -1,0 +1,5 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+Functions Browser,Failure,43,23,2018-02-11 15:19:56 +0530,2018-02-11 17:14:51 +0530,0:00:01
+Actions,Success,4,0,2018-02-11 15:12:49 +0530,2018-02-11 17:00:50 +0530,0:00:00
+Untitled,Success,10,0,2018-02-14 16:31:52 +0530,2018-02-14 17:03:17 +0530,0:00:00
+VR script Browser,Success,8,0,2018-02-11 17:28:33 +0530,2018-02-11 17:39:58 +0530,0:00:10
